@@ -1,1 +1,9 @@
-
+#Ennemy()
+#FirstRoom() (the one with goblin)
+#SecondRoom() (the one with pixie and the 2 ruins)
+#LeftRuin() (with atk boost)
+#RightRuin() (with health boost)
+#ThirdRoom() (before gate and boss)
+#SwitchRoom()
+#GateRoom()
+#BossRoom()
